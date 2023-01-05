@@ -1,0 +1,22 @@
+{
+  "name": "sanrandry",
+  "version": "1.0.0",
+  "description": "\"San randry reseve package\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/san-randry/sanrandry.git"
+  },
+  "keywords": [
+    "sanrandry"
+  ],
+  "author": "sanrandry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/san-randry/sanrandry/issues"
+  },
+  "homepage": "https://github.com/san-randry/sanrandry#readme"
+}
